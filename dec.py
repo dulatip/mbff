@@ -1,6 +1,3 @@
-import os, sys, time, mechanize, itertools, datetime, random, hashlib, re, threading, json, getpass, urllib, cookielib
-from multiprocessing.pool import ThreadPool
-P = '\x1b[1;97m'
 M = '\x1b[1;91m'
 H = '\x1b[1;92m'
 K = '\x1b[1;93m'
