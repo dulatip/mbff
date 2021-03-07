@@ -1,8 +1,3 @@
-# uncompyle6 version 3.7.4
-# Python bytecode 2.7
-# Decompiled from: Python 2.7.18 (default, Jan  8 2021, 21:22:55) 
-# [GCC 4.2.1 Compatible Android (6454773 based on r365631c2) Clang 9.0.8 (https:/
-# Embedded file name: <MrRobot>
 import os, sys, time, mechanize, itertools, datetime, random, hashlib, re, threading, json, getpass, urllib, cookielib
 from multiprocessing.pool import ThreadPool
 P = '\x1b[1;97m'
