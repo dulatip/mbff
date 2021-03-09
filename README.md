@@ -25,4 +25,4 @@ cd mbf
 
 ls
 
-python2 mbf.py
+python2 mbff.py
