@@ -1,5 +1,20 @@
-# testing-mbf
-Salin semua command yang di bawah pastekan di termux 
+# Login
+Token - Chokies 
 
-# salin comand di bawah semuah tempel di termux
-pkg update && pkg upgrade ; pkg install python2 ; pkg install git ; pip2 install mechanize ; pip2 install bs4 ; pip2 install requests ; https://github.com/dulatip/testing-mbf ; cd testing-mbf ; ls ; python2 cr4ckbos.py
+# Crack 15 Negara
+
+# Pemasangan
+pkg update && pkg upgrade
+pkg install python2 
+pkg install git 
+pip2 install mechanize
+pip2 install bs4
+pip2 install requests
+
+# Github
+https://github.com/dulatip/testing-mbf
+
+# Install run nya
+cd Mbf
+ls
+python2 Crackv1.py
