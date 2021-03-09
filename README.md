@@ -18,10 +18,10 @@ pip2 install requests
 
 # Github
 
-git clone https://github.com/dulatip/testing-mbf
+git clone https://github.com/dulatip/mbf
 
 # Install run nya
-cd Mbf
+cd mbf
 
 ls
 
